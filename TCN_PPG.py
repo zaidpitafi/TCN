@@ -31,7 +31,7 @@ class TemporalBlock(nn.Module):
 
     def init_weights(self):
         """
-        参数初始化
+    
 
         :return:
         """
