@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-
-"""
-
 import torch
 
 def train_loop(trainLoader, model, device,Lr, metric_fn, loss_fn, is_loss_MAE = 0, is_pretrained = 0):
